@@ -1,20 +1,24 @@
 ---
-title: Sprint 1 Project
+title: HoopStats.tech
 layout: page
 ---
 
 ## Inspiration
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Project for my first ever Hackathon given by MLH. 
 
 ## What it does
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Supposedly, the program is a web app that takes in two preformatted Excel files containing players stats of the video games NBA 2k20 and analyze the data. Then, the backend would do some data science and outputs some interesting facts about the data as well as finding the most proficient players accross all teams. 
 
 ## How we built it
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We use (vanilla) Java to design the back-end code, which was then redesigned into JavaScript code. The front-end consisted of HTML, CSS, and Node.js
 
 ## Challenge we ran into
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We did not spend enough time with planning, which resulted in not having enough time to complete or test the web app. Granted, our team of four had to deal with a large learning curve with data science and front-end development. In addition, we never had proper training of the software engineering process, which resulted in the project lacking a lot of deliverable components. 
+
+## What we learned
+
+Yerba Mate is the best thing ever. RIP HoopStats, we went to find knowledge but found Yerba Mate near an airport. Also 
