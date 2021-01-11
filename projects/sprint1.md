@@ -5,7 +5,7 @@ layout: page
 
 ## Inspiration
 
-Project for my first ever Hackathon given by MLH. 
+Project for my first ever Hackathon (SacHack 2020). The prompt was given by MLH. 
 
 ## What it does
 
@@ -21,4 +21,4 @@ We did not spend enough time with planning, which resulted in not having enough 
 
 ## What we learned
 
-Yerba Mate is the best thing ever. RIP HoopStats, we went to find knowledge but found Yerba Mate near an airport. Also 
+Yerba Mate is the best thing ever. RIP HoopStats, we went to find knowledge but found Yerba Mate near an airport. Also, should have used Python for the back-end (further back than the JavaScript layer) but oh well what can you do.  
