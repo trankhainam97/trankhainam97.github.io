@@ -1,6 +1,6 @@
 title: "Nam Tran"
 email: namkhaitran@csus.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   Welcome to my page. Stuff will be comming soon...
 baseurl: "/" 
 url: "https://trankhainam97.github.io/" 
