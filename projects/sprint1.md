@@ -5,7 +5,7 @@ layout: page
 
 ## Inspiration
 
-Project for my first ever Hackathon (SacHack 2020). The prompt was given by MLH. 
+Project for my second ever Hackathon (SacHack 2020). The prompt was given by MLH. 
 
 ## What it does
 
